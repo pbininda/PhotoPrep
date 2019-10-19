@@ -35,47 +35,47 @@ Vorbereitungen für einen Safari-Trip mit Kamera
 
 https://smile.amazon.de/gp/product/B07SC8MD9H
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61gTbPNPKNL._SX679_.jpg">
+<img width="300px" src="https://images-na.ssl-images-amazon.com/images/I/61gTbPNPKNL._SX679_.jpg">
 
 ## Kamera: Nikon D3500
 
 https://smile.amazon.de/gp/product/B07GZP6JPG
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/71uWjflifoL._SX679_.jpg">
+<img  width="400px" src="https://images-na.ssl-images-amazon.com/images/I/71uWjflifoL._SX679_.jpg">
 
 ## SD-Karten: 4 * SanDisk Extreme microSDXC 128GB + SD Adapter
 
 https://smile.amazon.de/gp/product/B07FCMKK5X
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/81TTUPZWacL._SX569_.jpg">
+<img  width="200px" src="https://images-na.ssl-images-amazon.com/images/I/81TTUPZWacL._SX569_.jpg">
 
 ## Festplatte: Seagate STEA1000400 Expansion Portable 1 TB
 
 https://smile.amazon.de/gp/product/B00TKFEEAS
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/91VmFqLG7EL._SX569_.jpg">
+<img  width="300px" src="https://images-na.ssl-images-amazon.com/images/I/91VmFqLG7EL._SX569_.jpg">
 
 ## USB-Hub: atolla USB Hub mit Netzteil, USB 3.0
 
 https://smile.amazon.de/gp/product/B07P6MPXJ7
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61kqt5TMWSL._SX679_.jpg">
+<img  width="300px" src="https://images-na.ssl-images-amazon.com/images/I/61kqt5TMWSL._SX679_.jpg">
 
 ## USB-Hub: Anker Ultra Slim Extra Leicht 4 Port USB 3.0 Hub
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/31meaTVecFL.jpg">
+<img  width="300px" src="https://images-na.ssl-images-amazon.com/images/I/31meaTVecFL.jpg">
 
 ## USB-OTG-Adapter: BENFEI USB C Adapter auf USB 3.0
 
 https://smile.amazon.de/gp/product/B07DNQ9FD9
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61bCMDJ93oL._SX679_.jpg">
+<img  width="200px" src="https://images-na.ssl-images-amazon.com/images/I/61bCMDJ93oL._SX679_.jpg">
 
 ## Ersatz-Akkus: Newmowa Ersatz Akku EN-EL14 (2er Pack), USB Ladegerät
 
 https://smile.amazon.de/gp/product/B00V5ORSYQ
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/71d%2BqIHB6fL._SX679_.jpg">
+<img  width="300px" src="https://images-na.ssl-images-amazon.com/images/I/71d%2BqIHB6fL._SX679_.jpg">
 
 # TODO
 
