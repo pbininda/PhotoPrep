@@ -95,3 +95,10 @@ Zu klären:
 * Funktioniert das zuverlässig mit einem nicht aktiven USB-Hub? (Anker) Oder muss der aktive USB-Hub verwendet werden?
 * Wie lange dauert das kopieren der Photos und wie viel Akku saugt das vom Smartphone?
 
+# Testergebnisse
+
+* Zugriff auf die Kamera funktioniert via MTP. Die "Downloads App" öffnet sich nach Anschluss der Kamera und man kann mit dieser App von der Kamera auf die Festplatte kopieren.
+* Bisher habe ich keinen Kopiermodus gefunden, der bereits kopierte Bilder überspringt...
+* Mit einem (alten) passiven Hub funktioniert es, sofern man den Hub via USB-3 Stecker (mit extra Stromversorgungs-Pins) via USB-OTG-Adapter anschließt.
+* Das Kopieren dauert relativ lange. Für einen Tag Photos schätze ich ca. 1 Stunde Kopierzeit.
+* Der Akku des Smartphone wird nicht besonders belastet. Es sollte bei einigermassen vollem Akku gut funktionieren.
