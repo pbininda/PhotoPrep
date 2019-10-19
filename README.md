@@ -103,6 +103,40 @@ Zu klären:
 * Das Kopieren dauert relativ lange. Für einen Tag Photos schätze ich ca. 1 Stunde Kopierzeit.
 * Der Akku des Smartphone wird nicht besonders belastet. Es sollte bei einigermassen vollem Akku gut funktionieren.
 
-# TODO: Tutorial / Walkthrough
+# Tutorial / Walkthrough
 
-Tutorial / Walkthrough mit Photos des Setup und Screenshots des Prozesses zur Sicherung
+## Geräte Anschließen
+
+### Teile im Überblick
+
+<img width="600" src="pictures/a-01-parts.jpg">
+
+### Festplatte anschließen
+
+<img width="300" src="pictures/a-02-hdunplugged.jpg">
+
+<img width="300" src="pictures/a-03-hdplugged.jpg">
+
+### Kamera anschließen
+
+<img width="300" src="pictures/a-04-camera-off.jpg">
+
+<img width="300" src="pictures/a-05-camera-unplugged.jpg">
+
+<img width="300" src="pictures/a-06-camera-plugged.jpg">
+
+<img width="300" src="pictures/a-07-camera-on.jpg">
+
+### Smartphone anschließen
+
+<img width="300" src="pictures/a-08-otg-unplugged.jpg">
+
+<img width="300" src="pictures/a-09-otg-plugged.jpg">
+
+<img width="300" src="pictures/a-10-phone-unlocked.jpg">
+
+<img width="300" src="pictures/a-11-phone-connected.jpg">
+
+### Fertig
+
+<img width="600" src="pictures/a-12-ready-to-copy.jpg">
