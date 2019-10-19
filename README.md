@@ -102,3 +102,7 @@ Zu klären:
 * Mit einem (alten) passiven Hub funktioniert es, sofern man den Hub via USB-3 Stecker (mit extra Stromversorgungs-Pins) via USB-OTG-Adapter anschließt.
 * Das Kopieren dauert relativ lange. Für einen Tag Photos schätze ich ca. 1 Stunde Kopierzeit.
 * Der Akku des Smartphone wird nicht besonders belastet. Es sollte bei einigermassen vollem Akku gut funktionieren.
+
+# TODO: Tutorial / Walkthrough
+
+Tutorial / Walkthrough mit Photos des Setup und Screenshots des Prozesses zur Sicherung
