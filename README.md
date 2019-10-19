@@ -130,3 +130,15 @@ Zu klären:
 ### Fertig
 
 <img width="800" src="pictures/a-12-ready-to-copy.jpg">
+
+## Kopieren
+
+<img width="250" src="screenshots/a-01-launcher.jpg"> <img width="250" src="screenshots/a-02-choose-download.jpg"> <img width="250" src="screenshots/a-03-download-sidebar.jpg"> 
+
+<img width="250" src="screenshots/a-04-to-dcim.jpg"> <img width="250" src="screenshots/a-05-in-dcim.jpg"> <img width="250" src="screenshots/a-06-select-100dc3500.jpg"> 
+
+<img width="250" src="screenshots/a-07-menu.jpg"> <img width="250" src="screenshots/a-08-sidemenu-to-usb.jpg"> <img width="250" src="screenshots/a-09-contents-hd.jpg"> 
+
+<img width="250" src="screenshots/a-10-new-folder.jpg"> <img width="250" src="screenshots/a-11-name-new-folder.jpg"> <img width="250" src="screenshots/a-12-start-copy.jpg"> 
+
+<img width="250" src="screenshots/a-13-wait.jpg"> <img width="250" src="screenshots/a-14-eject.jpg"> <img width="250" src="screenshots/a-15-finished.jpg"> 
