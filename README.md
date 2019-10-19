@@ -142,3 +142,7 @@ Zu klären:
 <img width="250" src="screenshots/a-10-new-folder.jpg"> <img width="250" src="screenshots/a-11-name-new-folder.jpg"> <img width="250" src="screenshots/a-12-start-copy.jpg"> 
 
 <img width="250" src="screenshots/a-13-wait.jpg"> <img width="250" src="screenshots/a-14-eject.jpg"> <img width="250" src="screenshots/a-15-finished.jpg"> 
+
+### Hier noch mal als Animation
+
+<img width="600" src="screenshots/animated-process.gif">
