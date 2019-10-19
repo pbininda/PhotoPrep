@@ -145,4 +145,4 @@ Zu klären:
 
 ### Hier noch mal als Animation
 
-<img width="600" src="screenshots/animated-process.gif">
+<img width="400" src="screenshots/animated-process.gif">
